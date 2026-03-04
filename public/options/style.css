@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+textarea {
+  width: 300px;
+}
+
+.email-block {
+  margin-bottom: 10px;
+}
+
+.preview {
+  max-width: 80px;
+  max-height: 80px;
+  display: block;
+  margin-top: 5px;
+}

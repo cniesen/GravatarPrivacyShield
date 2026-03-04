@@ -1,0 +1,48 @@
+{
+  "extensionDescription": {
+    "message": "Increase your privacy by blocking or randomizing Gravatar lookups.",
+    "description": "Description of the extension."
+  },
+  
+  "extensionButtonTitle": {
+    "message": "Foobar",
+    "description": "Tool tip shown when hovering over the extension button."
+  },
+  
+  "optionsPageTitle": {
+    "message": "Gravatar Blocker Options",
+    "description": "Title of the options page."
+  },
+
+  "optionsTitle": {
+    "message": "QRZ Login Settings",
+    "description": "Title of the options page."
+  },
+   
+  "optionsUsernameLabel": {
+    "message": "Username:",
+    "description": "Label for username input field."
+  },
+
+  "optionsPasswordLabel": {
+    "message": "Password:",
+    "description": "Label for password input field."
+  },
+
+  "optionsSaveButtonLabel" : {
+    "message": "Save",
+    "description": "Label for save button."
+  },
+
+  "optionsErrorMessage" : {
+    "message": "Please enter both fields.",
+    "description": "Displayed when username, password or both are missing."
+  },
+
+  "optionsSavedMessage" : {
+    "message": "Saved!",
+    "description": "Displayed when options have been successfully saved."
+  }
+
+
+}
